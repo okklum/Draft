@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm.iml" filepath="$PROJECT_DIR$/.idea/modules/crm.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm_main.iml" filepath="$PROJECT_DIR$/.idea/modules/crm_main.iml" group="crm" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/crm_test.iml" filepath="$PROJECT_DIR$/.idea/modules/crm_test.iml" group="crm" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gosoblako.iml" filepath="$PROJECT_DIR$/.idea/modules/gosoblako.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gosoblako_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gosoblako_main.iml" group="gosoblako" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gosoblako_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gosoblako_test.iml" group="gosoblako" />
     </modules>
   </component>
 </project>

@@ -21,6 +21,8 @@
     <bytecodeTargetLevel>
       <module name="crm_main" target="1.8" />
       <module name="crm_test" target="1.8" />
+      <module name="gosoblako_main" target="1.8" />
+      <module name="gosoblako_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
